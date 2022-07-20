@@ -72,7 +72,7 @@ heaer가 아니라 header-wrap에 position relative 붙은 이유 1170기준으�
     width: 30px;
     height: 30px;
     margin-left: 15px;
-    background: url("../images/subway/icon_utill_global.png");
+    background: url("images/icon_utill_global.png");
     vertical-align: middle;
     /* 수직정렬 */
 }
@@ -263,7 +263,7 @@ css로 구현할 수 없는 경우
     height: 30px;
     display: inline-block;
     vertical-align: middle;
-    background: url("../images/subway/icon_map.png") 0 0 no-repeat;
+    background: url("images/icon_map.png") 0 0 no-repeat;
     padding-right: 13px;
     position: relative;
     top: -2px;
@@ -282,7 +282,7 @@ css로 구현할 수 없는 경우
     height: 30px;
     display: inline-block;
     vertical-align: middle;
-    background: url("../images/subway/icon_franchise.png") 0 0 no-repeat;
+    background: url("images/icon_franchise.png") 0 0 no-repeat;
     padding-right: 13px;
     position: relative;
     top: -2px;
@@ -310,7 +310,7 @@ css로 구현할 수 없는 경우
     height: 60px;
     padding: 32px 0 0 25px;
     margin-bottom: 1px;
-    background: url("../images/subway/bul_tit.png") 0 12px no-repeat;
+    background: url("images/bul_tit.png") 0 12px no-repeat;
 }
 .subway-menu .menu-list ul{
     float: right;
@@ -390,7 +390,7 @@ css로 구현할 수 없는 경우
     width: 98px;
     height: 98px;
     position: absolute;
-    background: url("../images/subway/btn_more.png") 0 0 no-repeat;
+    background: url("images/btn_more.png") 0 0 no-repeat;
     left: 50%;
     top: 50%;
     margin: -22px 0 0 -42px;
@@ -432,7 +432,7 @@ css로 구현할 수 없는 경우
     height: 50px;
     top: 113px;
     overflow: hidden;
-    background: url("../images/subway/icon_event_slider_arr.png") 0 0 no-repeat;
+    background: url("images/icon_event_slider_arr.png") 0 0 no-repeat;
     /* background-position  100%는 이미지 */
 }
 .subway-menu .menu-content .arrow a:nth-child(1){left: -202px;}
@@ -442,7 +442,7 @@ css로 구현할 수 없는 경우
 
 .content{
     width: 100%;
-    background: url("../images/subway/bg_content.gif") 0 -30px;
+    background: url("images/bg_content.gif") 0 -30px;
 }
 
 .content .content-wrap{
@@ -461,7 +461,7 @@ css로 구현할 수 없는 경우
     height: 300px;
     float: left;
     margin-left: 55px;
-    background-image: url("../images/subway/bg_utilization.png");
+    background-image: url("images/bg_utilization.png");
 }
 .content .content-top .content-amused h3{
     color: #fff;
@@ -491,7 +491,7 @@ css로 구현할 수 없는 경우
     float: left;
     width: 825px;
     height: 300px;
-    background-image: url("../images/subway/img_subway_history.png");
+    background-image: url("images/img_subway_history.png");
 }
 .content .content-top .content-history h3{
     color: #fff;
@@ -551,7 +551,7 @@ css로 구현할 수 없는 경우
     height: 60px;
     margin-bottom: 1px;
     background-repeat: no-repeat;
-    background-image: url("../images/subway/bul_tit.png");
+    background-image: url("images/bul_tit.png");
 }
 .content .content-bottom .content-new .text{
     float: left;
@@ -591,7 +591,7 @@ css로 구현할 수 없는 경우
     float: left;
     width: 270px;
     height: 300px;
-    background-image: url("../images/subway/[AdQUA]\ 브랜드\ 필름\ 영상\ 이미지\ 배너_20220214110854344.jpg");
+    background-image: url("images/[AdQUA]\ 브랜드\ 필름\ 영상\ 이미지\ 배너_20220214110854344.jpg");
     margin-left: 30px;
     border-radius: 0 30px 0 30px;
     position: relative;
@@ -640,7 +640,7 @@ css로 구현할 수 없는 경우
 }
 
 .footer-menu .menu-item .icon{
-    background: url("../images/subway/icon_quickmenu.png") 0 0 no-repeat;
+    background: url("images/icon_quickmenu.png") 0 0 no-repeat;
     width: 70px;
     height: 70px;
     position: absolute;
@@ -784,20 +784,20 @@ css로 구현할 수 없는 경우
     opacity: 0;
 }
 .footer .footer-wrap .sns-link ul li:nth-child(1){
-    background: url("../images/subway/icon_sns_instar.png") 0 0 no-repeat;
+    background: url("images/icon_sns_instar.png") 0 0 no-repeat;
 }
 .footer .footer-wrap .sns-link ul li:nth-child(1)::after{
-    background: url("../images/subway/icon_sns_instar.png") 100% 0 no-repeat;
+    background: url("images/icon_sns_instar.png") 100% 0 no-repeat;
 }
 .footer .footer-wrap .sns-link ul li:nth-child(1):hover::after{
     opacity: 1;
 }
 .footer .footer-wrap .sns-link ul li:nth-child(2){
-    background: url("../images/subway/icon_sns_facebook.png") 0 0 no-repeat;
+    background: url("images/icon_sns_facebook.png") 0 0 no-repeat;
     left: 65px;
 }
 .footer .footer-wrap .sns-link ul li:nth-child(2)::after{
-    background: url("../images/subway/icon_sns_facebook.png") 100% 0 no-repeat;
+    background: url("images/icon_sns_facebook.png") 100% 0 no-repeat;
     left: 65px;
 }
 .footer .footer-wrap .sns-link ul li:nth-child(2):hover::after{
